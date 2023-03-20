@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React test cicd
+          Learn test cicd
         </a>
       </header>
     </div>
